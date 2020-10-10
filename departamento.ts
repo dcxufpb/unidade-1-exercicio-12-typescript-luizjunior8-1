@@ -35,5 +35,4 @@ ${localDepto}
 ${this.coordenador.dados_coordenador()}`
         )
     }
-
 }
